@@ -1,0 +1,4 @@
+ul.notification li{
+    display: flex;
+    padding: 20px;
+}
